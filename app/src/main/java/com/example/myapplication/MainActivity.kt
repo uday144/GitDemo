@@ -39,11 +39,11 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
             modifier = modifier
         )
         Text(
-            text = "Hello Master 3 $name!",
+            text = "Hello rebase 2 $name!",
             modifier = modifier
         )
         Text(
-            text = "Hello Master rebase 1 $name!",
+            text = "Hello Master rebase 2 $name!",
             modifier = modifier
         )
     }
